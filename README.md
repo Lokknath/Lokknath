@@ -7,7 +7,7 @@
 
 <!-- Animated typing -->
 <a href="https://github.com/Lokknath">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&multiline=false&width=700&lines=🚀+Building+Autonomous+AI+Agent+Swarms;⚡+Architecting+High-Performance+Dev+Tools;🧠+Crafting+Resilient+System+Software;🌐+Engineering+Full-Stack+Platforms;🤖+Orchestrating+Multi-LLM+Agent+Pipelines" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+Autonomous+AI+Agent+Swarms;Architecting+High-Performance+Dev+Tools;Crafting+Resilient+System+Software;Engineering+Full-Stack+Platforms;Orchestrating+Multi-LLM+Agent+Pipelines" alt="Typing SVG" />
 </a>
 
 <br/><br/>
