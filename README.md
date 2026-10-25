@@ -43,10 +43,7 @@ I specialise in three areas:
 <a href="https://github.com/Lokknath/ai-terminal-app">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lokknath&repo=ai-terminal-app&theme=tokyonight&border_radius=12&border_color=6366f1&bg_color=0d1117&title_color=a5b4fc&text_color=94a3b8&icon_color=6366f1" alt="Nexus AI Terminal" />
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/Lokknath/SmarTrade">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Lokknath&repo=SmarTrade&theme=tokyonight&border_radius=12&border_color=8b5cf6&bg_color=0d1117&title_color=c4b5fd&text_color=94a3b8&icon_color=8b5cf6" alt="SmarTrade" />
-</a>
+
 
 </div>
 
