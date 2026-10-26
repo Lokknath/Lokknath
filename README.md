@@ -40,9 +40,12 @@ I specialise in three areas:
 
 <div align="center">
 
-<a href="https://github.com/Lokknath/ai-terminal-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Lokknath&repo=ai-terminal-app&theme=tokyonight&border_radius=12&border_color=6366f1&bg_color=0d1117&title_color=a5b4fc&text_color=94a3b8&icon_color=6366f1" alt="Nexus AI Terminal" />
-</a>
+### ⚡ Nexus — [`ai-terminal-app`](https://github.com/Lokknath/ai-terminal-app)
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/Lokknath/ai-terminal-app)
+[![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)](https://github.com/Lokknath/ai-terminal-app)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://github.com/Lokknath/ai-terminal-app)
+[![Status](https://img.shields.io/badge/Status-Active-22c55e?style=flat-square)](https://github.com/Lokknath/ai-terminal-app)
 
 
 </div>
